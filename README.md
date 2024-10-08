@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=7aFgeUG9TK4
 # Specifics
 
 A simple desktop calculator for breaking income up into Profit First methodology.
